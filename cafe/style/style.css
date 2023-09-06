@@ -1,0 +1,71 @@
+body{
+    background-image: url(../assets/fundo\ cafe1.png);
+    background-size: cover;
+}
+#header{
+    background-color: #873e23d8;
+    width: 1500px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10px;
+    border-radius: 20px;
+    color:white;
+}
+#logocafe{
+    width: 70px;
+    margin-top: -20px;
+}
+#escobar{
+    width: 70px;
+    padding: 10px 10px;
+    border-radius: 50%;
+}
+#escobar1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#texto{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#letra{
+    padding: 5px 5px;
+}
+#anuncio{
+    color: #ddd2cf;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+#estabelecimento{
+    width: 350px;
+    margin-right: 30px;
+}
+#frase{
+    background-color: #42424269;
+    margin-left: 30px;
+    width: 300px;
+    height: 150px;
+    border-radius: 50px;
+    padding: 10px 10px;
+}
+#cardapio{
+    display: flex;
+    flex-direction: center;
+    
+}
+#cardapio1{
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 150px;
+}
+.querocafe{
+    color:aqua;
+    margin-left: 100px;
+}
